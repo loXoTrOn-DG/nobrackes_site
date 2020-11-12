@@ -1,0 +1,32 @@
+
+body{
+    padding-left: 25%;
+    padding-right: 25%;
+
+    background: #000 url(bckg.png);
+    background-attachment: fixed;
+
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#logos{
+    text-align: center;
+}
+
+#projects{
+    margin-top: 4%;
+}
+
+#footer{
+    position : fixed;
+    bottom : 8%;
+}
+
+.custom_font{
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+}
+
+
